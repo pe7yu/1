@@ -1,0 +1,7 @@
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.csproj.AssemblyReference.cache
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.Form1.resources
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.csproj.GenerateResource.cache
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.AssemblyInfoInputs.cache
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.AssemblyInfo.cs
+C:\Users\petya\source\repos\OracleConnector\OracleConnector\obj\Debug\net6.0-windows\OracleConnector.csproj.CoreCompileInputs.cache
